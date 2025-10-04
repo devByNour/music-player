@@ -1,3 +1,4 @@
+<img width="1845" height="872" alt="image" src="https://github.com/user-attachments/assets/0be0baf4-37f8-4a1c-85b0-cf22af46fb06" />
 # 🎵 Music Player
 
 A simple music player built with **HTML, CSS, and JavaScript**.  
